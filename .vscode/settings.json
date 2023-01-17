@@ -1,0 +1,7 @@
+{
+    "editor.minimap.showSlider": "mouseover",
+    "editor.defaultFormatter": "ms-vscode-remote.remote-wsl-recommender",
+    "[sql]": {
+        "editor.defaultFormatter": "mtxr.sqltools"
+    }
+}

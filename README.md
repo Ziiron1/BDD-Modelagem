@@ -52,8 +52,13 @@ Este projeto tem como objetivo construir um banco de dados SQL para gerenciament
 
 
 ## Imagens
-- Diagrama ER: ![Diagrama ER](imagens/diagrama.png)
-- Diagrama SQL: ![Diagrama SQL](imagens/diagrama_sql.png)
+- Diagrama ER:
+
+![Diagrama ER](https://i.imgur.com/sLyPei6.png)
+---
+- Diagrama SQL:
+
+![Diagrama SQL](https://i.imgur.com/PtsSSAk.png)
 
 
 
